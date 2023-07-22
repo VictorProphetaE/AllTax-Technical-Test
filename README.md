@@ -1,4 +1,4 @@
-# AllTax Technical Test - <Victor Propheta Erbano>
+# AllTax Technical Test - Victor Propheta Erbano
 
 Este projeto é um relatório de vendas que exibe gráficos de linha com base nos dados de vendas por mês de diferentes categorias, produtos e marcas. O gráfico é criado usando a biblioteca Chart.js para visualização dos dados.
 
