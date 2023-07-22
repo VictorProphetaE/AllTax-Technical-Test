@@ -36,3 +36,5 @@ Os estilos personalizados do projeto estão definidos no arquivo styles.css. Alt
 ## Personalização
 
 Caso você deseje personalizar o projeto, como adicionar novas categorias, produtos ou marcas, basta modificar o objeto `data` no arquivo `script.js`. Você também pode alterar o estilo do gráfico, atualizando as opções do `Chart.js` no mesmo arquivo.
+
+Acesse a [página de demonstração](https://victorprophetae.github.io/AllTax-Technical-Test/) para ver o projeto em ação.
