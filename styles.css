@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: auto;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .form-select {
+    width: 100%;
+    padding: 8px;
+  }
+  
+  #chart {
+    width: auto;
+    height: 500px;
+  }
+  
